@@ -12,6 +12,7 @@ Due to evidence demonstrating their key roles in numerous essential biological f
 ### What does sORFboost do?
 When given a fasta file containing DNA fasta sequences, "sORFboost" will find all the sORFs (length = 303 bp) present in each of the sequence's three translation frames and return the predicted class label (coding or noncoding) as well as the probability of being in that class for each sORF. An output.csv file will contain all of the results.  
 
+You need to unzip src and demo_files after cloning or downloading.
 
 
 ### Dependencies: 
